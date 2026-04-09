@@ -17,14 +17,15 @@ Ce module gère les interactions simples. L'interface change d'état dynamiqueme
 
 | État Initial | Après Action (Clic) |
 | :---: | :---: |
-| ![Accueil Initial](screenshots/Screenshot_2026-04-09_212123.png) | ![Accueil Activé](screenshots/Screenshot_2026-04-09_212145.png) |
+|  <img width="395" height="868" alt="Screenshot 2026-04-09 212123" src="https://github.com/user-attachments/assets/815ab232-3348-42a9-a2c2-91d7abfd48fd" />|  <img width="393" height="868" alt="Screenshot 2026-04-09 212145" src="https://github.com/user-attachments/assets/2bf96029-6466-4dc7-adda-af1cc0545ecf" />|
 
 ### 2. Module Options (`SettingsFragment`)
 Démonstration de la persistance des données. La valeur du niveau de signal est sauvegardée et restaurée automatiquement.
 
 | Niveau Bas (13%) | Niveau Haut (69%) |
 | :---: | :---: |
-| ![Settings 13](screenshots/Screenshot_2026-04-09_212202.png) | ![Settings 69](screenshots/Screenshot_2026-04-09_212214.png) |
+| ]<img width="395" height="870" alt="Screenshot 2026-04-09 212202" src="https://github.com/user-attachments/assets/d39019f8-eca4-4e09-a87f-9902d9a9aef3" />|  <img width="394" height="866" alt="Screenshot 2026-04-09 212214" src="https://github.com/user-attachments/assets/f7798006-584b-4b8d-8b00-4aa70ca1b7af" />
+
 
 ---
 
