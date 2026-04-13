@@ -53,7 +53,7 @@ L'application respecte la hiérarchie du cycle de vie Android pour garantir la s
 ### Étapes d'installation
 1.  **Cloner le dépôt** :
     ```bash
-    git clone [https://github.com/votre-nom/votre-projet.git](https://github.com/votre-nom/votre-projet.git)
+    git clone [https://github.com/MAITO465/Lab4.git](https://github.com/MAITO465/Lab4.git)
     ```
 2.  **Importer le projet** : Ouvrez Android Studio et sélectionnez le dossier du projet.
 3.  **Synchronisation Gradle** : Laissez Android Studio télécharger les dépendances suivantes :
